@@ -7,7 +7,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/youssef-emad-034240218/)
 
 
-![](https://komarev.com/ghpvc/?username=YoussefEmad99)
+![](https://komarev.com/ghpvc/?username=YoussefEmad99&color=blueviolet)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoussefEmad99)](https://git.io/streak-stats)
